@@ -1,5 +1,4 @@
-#Ignore files containing tilde symbol
+#Never push root files
 ~
-~/
-#Ignore files in the home directory
-~root
+#ignore files in home directory
+0x03-git
